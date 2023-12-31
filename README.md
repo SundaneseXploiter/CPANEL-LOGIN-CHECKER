@@ -1,6 +1,5 @@
 # CPANEL-LOGIN-CHECKER
 
-## CPANEL-LOGIN-CHECKER
 CPanel Login Checker is a useful tool to check the validity of login combinations in the CPanel hosting control panel. This tool is specifically designed to test login authentication by using a combination of username and password in the CPanel that you entered in the list
 
 Login Error Detection: Capable of detecting and reporting login failures, logging information about invalid login combinations or failed access attempts.

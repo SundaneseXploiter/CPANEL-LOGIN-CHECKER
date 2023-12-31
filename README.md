@@ -7,7 +7,7 @@ Login Error Detection: Capable of detecting and reporting login failures, loggin
 
 Login Status Monitoring: Provides live monitoring of successful login status, so users can easily identify valid login combinations.
 ## Requirements
-- Python3.7+
+- Python3.+
 ## Get start with
 ```
 $ git clone https://github.com/SundaneseXploiter/CPANEL-LOGIN-CHECKER.git
